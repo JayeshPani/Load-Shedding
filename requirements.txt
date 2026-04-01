@@ -1,0 +1,23 @@
+# Web framework
+fastapi
+
+# ASGI server
+uvicorn
+
+# Job scheduler (for 6 AM daily job)
+apscheduler
+
+# HTTP requests (EskomSePush + Open-Meteo API calls)
+requests
+
+# Load environment variables from .env
+python-dotenv
+
+# Gemini AI (Google Generative AI SDK)
+google-generativeai
+
+# WhatsApp / SMS messaging (Twilio)
+twilio
+
+# ORM for SQLite database
+sqlalchemy
